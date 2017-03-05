@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Dom4jDemo:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="Dom4jDemo.war">
+      <element id="artifact" artifact-name="Dom4jDemo:war exploded" />
+    </root>
+  </artifact>
+</component>
